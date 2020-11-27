@@ -20,7 +20,6 @@ Die Anwendungen des Landesindexes und damit die an ihn gestellten Anforderungen 
 ### Vorteile ###
 
 Dadurch, dass der Landesindex der Konsumentenpreise die Preisentwicklung der für die privaten Haushalte bedeutsamen Waren und Dienstleistungen misst, kann man nicht nur sehen, was in früheren Jahren geschehen ist, sondern man kann auch noch die zukunftige Preisentwicklung vorausahnen und Ausgaben bei Preisveränderungen erhöhen oder sinken, um das Verbrauchsvolumen konstant halten zu können.
-# lik_wuerdigung #
 
 ### Nachteile ###
  Ein grosser Nachteil ist, das der Landesindex im vergleich zu früheren Jahren  
